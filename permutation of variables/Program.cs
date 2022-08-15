@@ -1,2 +1,11 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿string name = "Vasilev";
+
+string surname = "Petr";
+
+string clipboard;
+
+clipboard = name;
+
+name = surname;
+
+surname = clipboard;
