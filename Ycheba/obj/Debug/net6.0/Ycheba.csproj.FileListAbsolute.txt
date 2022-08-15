@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Ycheba\Ycheba\bin\Debug\net6.0\Ycheba.exe
+C:\Users\user\source\repos\Ycheba\Ycheba\bin\Debug\net6.0\Ycheba.deps.json
+C:\Users\user\source\repos\Ycheba\Ycheba\bin\Debug\net6.0\Ycheba.runtimeconfig.json
+C:\Users\user\source\repos\Ycheba\Ycheba\bin\Debug\net6.0\Ycheba.dll
+C:\Users\user\source\repos\Ycheba\Ycheba\bin\Debug\net6.0\Ycheba.pdb
+C:\Users\user\source\repos\Ycheba\Ycheba\obj\Debug\net6.0\Ycheba.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Ycheba\Ycheba\obj\Debug\net6.0\Ycheba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Ycheba\Ycheba\obj\Debug\net6.0\Ycheba.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Ycheba\Ycheba\obj\Debug\net6.0\Ycheba.AssemblyInfo.cs
+C:\Users\user\source\repos\Ycheba\Ycheba\obj\Debug\net6.0\Ycheba.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Ycheba\Ycheba\obj\Debug\net6.0\Ycheba.dll
+C:\Users\user\source\repos\Ycheba\Ycheba\obj\Debug\net6.0\refint\Ycheba.dll
+C:\Users\user\source\repos\Ycheba\Ycheba\obj\Debug\net6.0\Ycheba.pdb
+C:\Users\user\source\repos\Ycheba\Ycheba\obj\Debug\net6.0\Ycheba.genruntimeconfig.cache
+C:\Users\user\source\repos\Ycheba\Ycheba\obj\Debug\net6.0\ref\Ycheba.dll
