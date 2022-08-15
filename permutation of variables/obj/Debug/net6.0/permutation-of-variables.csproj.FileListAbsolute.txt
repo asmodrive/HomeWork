@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Ycheba\HomeWork\permutation of variables\bin\Debug\net6.0\permutation-of-variables.exe
+C:\Users\user\source\repos\Ycheba\HomeWork\permutation of variables\bin\Debug\net6.0\permutation-of-variables.deps.json
+C:\Users\user\source\repos\Ycheba\HomeWork\permutation of variables\bin\Debug\net6.0\permutation-of-variables.runtimeconfig.json
+C:\Users\user\source\repos\Ycheba\HomeWork\permutation of variables\bin\Debug\net6.0\permutation-of-variables.dll
+C:\Users\user\source\repos\Ycheba\HomeWork\permutation of variables\bin\Debug\net6.0\permutation-of-variables.pdb
+C:\Users\user\source\repos\Ycheba\HomeWork\permutation of variables\obj\Debug\net6.0\permutation-of-variables.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Ycheba\HomeWork\permutation of variables\obj\Debug\net6.0\permutation-of-variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Ycheba\HomeWork\permutation of variables\obj\Debug\net6.0\permutation-of-variables.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Ycheba\HomeWork\permutation of variables\obj\Debug\net6.0\permutation-of-variables.AssemblyInfo.cs
+C:\Users\user\source\repos\Ycheba\HomeWork\permutation of variables\obj\Debug\net6.0\permutation-of-variables.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Ycheba\HomeWork\permutation of variables\obj\Debug\net6.0\permutation-of-variables.dll
+C:\Users\user\source\repos\Ycheba\HomeWork\permutation of variables\obj\Debug\net6.0\refint\permutation-of-variables.dll
+C:\Users\user\source\repos\Ycheba\HomeWork\permutation of variables\obj\Debug\net6.0\permutation-of-variables.pdb
+C:\Users\user\source\repos\Ycheba\HomeWork\permutation of variables\obj\Debug\net6.0\permutation-of-variables.genruntimeconfig.cache
+C:\Users\user\source\repos\Ycheba\HomeWork\permutation of variables\obj\Debug\net6.0\ref\permutation-of-variables.dll

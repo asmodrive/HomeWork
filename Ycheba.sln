@@ -9,6 +9,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Anketa", "Anketa\Anketa.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pictures", "pictures\pictures.csproj", "{AC974FE1-54AF-475C-B42C-62D71A2AC01D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "permutation-of-variables", "permutation of variables\permutation-of-variables.csproj", "{AF4E6E4E-6602-4F37-842A-4447C93877EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gold-and-gems", "gold-and-gems\gold-and-gems.csproj", "{29FF3C4D-1DB0-4C73-A34F-A8F46239DFE6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{AC974FE1-54AF-475C-B42C-62D71A2AC01D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC974FE1-54AF-475C-B42C-62D71A2AC01D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC974FE1-54AF-475C-B42C-62D71A2AC01D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF4E6E4E-6602-4F37-842A-4447C93877EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF4E6E4E-6602-4F37-842A-4447C93877EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF4E6E4E-6602-4F37-842A-4447C93877EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF4E6E4E-6602-4F37-842A-4447C93877EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29FF3C4D-1DB0-4C73-A34F-A8F46239DFE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29FF3C4D-1DB0-4C73-A34F-A8F46239DFE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29FF3C4D-1DB0-4C73-A34F-A8F46239DFE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29FF3C4D-1DB0-4C73-A34F-A8F46239DFE6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Ycheba\HomeWork\gold-and-gems\bin\Debug\net6.0\gold-and-gems.exe
+C:\Users\user\source\repos\Ycheba\HomeWork\gold-and-gems\bin\Debug\net6.0\gold-and-gems.deps.json
+C:\Users\user\source\repos\Ycheba\HomeWork\gold-and-gems\bin\Debug\net6.0\gold-and-gems.runtimeconfig.json
+C:\Users\user\source\repos\Ycheba\HomeWork\gold-and-gems\bin\Debug\net6.0\gold-and-gems.dll
+C:\Users\user\source\repos\Ycheba\HomeWork\gold-and-gems\bin\Debug\net6.0\gold-and-gems.pdb
+C:\Users\user\source\repos\Ycheba\HomeWork\gold-and-gems\obj\Debug\net6.0\gold-and-gems.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Ycheba\HomeWork\gold-and-gems\obj\Debug\net6.0\gold-and-gems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Ycheba\HomeWork\gold-and-gems\obj\Debug\net6.0\gold-and-gems.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Ycheba\HomeWork\gold-and-gems\obj\Debug\net6.0\gold-and-gems.AssemblyInfo.cs
+C:\Users\user\source\repos\Ycheba\HomeWork\gold-and-gems\obj\Debug\net6.0\gold-and-gems.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Ycheba\HomeWork\gold-and-gems\obj\Debug\net6.0\gold-and-gems.dll
+C:\Users\user\source\repos\Ycheba\HomeWork\gold-and-gems\obj\Debug\net6.0\refint\gold-and-gems.dll
+C:\Users\user\source\repos\Ycheba\HomeWork\gold-and-gems\obj\Debug\net6.0\gold-and-gems.pdb
+C:\Users\user\source\repos\Ycheba\HomeWork\gold-and-gems\obj\Debug\net6.0\gold-and-gems.genruntimeconfig.cache
+C:\Users\user\source\repos\Ycheba\HomeWork\gold-and-gems\obj\Debug\net6.0\ref\gold-and-gems.dll
