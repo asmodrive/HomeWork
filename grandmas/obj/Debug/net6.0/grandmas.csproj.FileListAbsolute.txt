@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Ycheba\HomeWork\grandmas\bin\Debug\net6.0\grandmas.exe
+C:\Users\user\source\repos\Ycheba\HomeWork\grandmas\bin\Debug\net6.0\grandmas.deps.json
+C:\Users\user\source\repos\Ycheba\HomeWork\grandmas\bin\Debug\net6.0\grandmas.runtimeconfig.json
+C:\Users\user\source\repos\Ycheba\HomeWork\grandmas\bin\Debug\net6.0\grandmas.dll
+C:\Users\user\source\repos\Ycheba\HomeWork\grandmas\bin\Debug\net6.0\grandmas.pdb
+C:\Users\user\source\repos\Ycheba\HomeWork\grandmas\obj\Debug\net6.0\grandmas.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Ycheba\HomeWork\grandmas\obj\Debug\net6.0\grandmas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Ycheba\HomeWork\grandmas\obj\Debug\net6.0\grandmas.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Ycheba\HomeWork\grandmas\obj\Debug\net6.0\grandmas.AssemblyInfo.cs
+C:\Users\user\source\repos\Ycheba\HomeWork\grandmas\obj\Debug\net6.0\grandmas.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Ycheba\HomeWork\grandmas\obj\Debug\net6.0\grandmas.dll
+C:\Users\user\source\repos\Ycheba\HomeWork\grandmas\obj\Debug\net6.0\refint\grandmas.dll
+C:\Users\user\source\repos\Ycheba\HomeWork\grandmas\obj\Debug\net6.0\grandmas.pdb
+C:\Users\user\source\repos\Ycheba\HomeWork\grandmas\obj\Debug\net6.0\grandmas.genruntimeconfig.cache
+C:\Users\user\source\repos\Ycheba\HomeWork\grandmas\obj\Debug\net6.0\ref\grandmas.dll
