@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\source\\repos\\Ycheba\\HomeWork\\permutation of variables\\permutation of variables.csproj",
-      "projectName": "permutation of variables",
-      "projectPath": "C:\\Users\\user\\source\\repos\\Ycheba\\HomeWork\\permutation of variables\\permutation of variables.csproj",
+      "projectUniqueName": "C:\\Users\\user\\source\\repos\\Ycheba\\HomeWork\\permutation of variables\\permutation-of-variables.csproj",
+      "projectName": "permutation-of-variables",
+      "projectPath": "C:\\Users\\user\\source\\repos\\Ycheba\\HomeWork\\permutation of variables\\permutation-of-variables.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\user\\source\\repos\\Ycheba\\HomeWork\\permutation of variables\\obj\\",
       "projectStyle": "PackageReference",
