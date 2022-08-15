@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Ycheba\HomeWork\pictures\bin\Debug\net6.0\pictures.exe
+C:\Users\user\source\repos\Ycheba\HomeWork\pictures\bin\Debug\net6.0\pictures.deps.json
+C:\Users\user\source\repos\Ycheba\HomeWork\pictures\bin\Debug\net6.0\pictures.runtimeconfig.json
+C:\Users\user\source\repos\Ycheba\HomeWork\pictures\bin\Debug\net6.0\pictures.dll
+C:\Users\user\source\repos\Ycheba\HomeWork\pictures\bin\Debug\net6.0\pictures.pdb
+C:\Users\user\source\repos\Ycheba\HomeWork\pictures\obj\Debug\net6.0\pictures.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Ycheba\HomeWork\pictures\obj\Debug\net6.0\pictures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Ycheba\HomeWork\pictures\obj\Debug\net6.0\pictures.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Ycheba\HomeWork\pictures\obj\Debug\net6.0\pictures.AssemblyInfo.cs
+C:\Users\user\source\repos\Ycheba\HomeWork\pictures\obj\Debug\net6.0\pictures.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Ycheba\HomeWork\pictures\obj\Debug\net6.0\pictures.dll
+C:\Users\user\source\repos\Ycheba\HomeWork\pictures\obj\Debug\net6.0\refint\pictures.dll
+C:\Users\user\source\repos\Ycheba\HomeWork\pictures\obj\Debug\net6.0\pictures.pdb
+C:\Users\user\source\repos\Ycheba\HomeWork\pictures\obj\Debug\net6.0\pictures.genruntimeconfig.cache
+C:\Users\user\source\repos\Ycheba\HomeWork\pictures\obj\Debug\net6.0\ref\pictures.dll
