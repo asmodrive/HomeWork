@@ -1,9 +1,9 @@
 ﻿int allPictures = 52;
 
-int row = 3;
+int picturePerRow = 3;
 
-int rowCount = allPictures / row;
+int rowCount = allPictures / picturePerRow;
 
-int extraPictures = allPictures % row; 
+int extraPictures = allPictures % picturePerRow; 
 
 Console.WriteLine($"Вы заполнили полностью {rowCount} строк, у вас остались свободные картинки {extraPictures}.");
