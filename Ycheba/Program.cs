@@ -4,9 +4,9 @@ string surname = "Vasilev";
 
 float time = 13.11f;
 
-bool check = true;
+bool verificationIsActivated = true;
 
-bool check2 = false;
+bool userAuthenticated = false;
 
 sbyte negativeNumber = -125;
 
