@@ -1,18 +1,18 @@
 ﻿string trueWord = "exit";
-string userInputWord;
+string userInputWord = "";
 
-while (true)
-{
+while (userInputWord != trueWord)
+
+{ 
     Console.WriteLine("Напишите слово выход на английском языке");
     userInputWord = Console.ReadLine();
-
-    if (userInputWord == "exit")
+    if (userInputWord == trueWord)
     {
         Console.WriteLine("Вы угадали слово.");
-        break;
     }
     else
     {
         Console.WriteLine("Попробуйте еще раз.");
     }
 }
+
