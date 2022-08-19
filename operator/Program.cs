@@ -1,11 +1,12 @@
-﻿string trueWord = "exit";
+﻿string exitCommand = "exit";
 string userInputWord = "";
 
-while (userInputWord != trueWord)
+while (userInputWord != exitCommand)
 { 
     Console.WriteLine("Напишите слово выход на английском языке");
     userInputWord = Console.ReadLine();
-    if (userInputWord == trueWord)
+
+    if (userInputWord == exitCommand)
     {
         Console.WriteLine("Вы угадали слово.");
     }
@@ -13,4 +14,5 @@ while (userInputWord != trueWord)
     {
         Console.WriteLine("Попробуйте еще раз.");
     }
+
 }
