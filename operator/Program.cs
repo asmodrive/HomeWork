@@ -1,12 +1,18 @@
-﻿Console.WriteLine("Напишите выражение");
+﻿string trueWord = "exit";
+string userInputWord;
 
-string message = Console.ReadLine();
-
-Console.WriteLine("Установите количество раз которое выражение будет выводиться на экран.");
-
-int repeatCount = Convert.ToInt32(Console.ReadLine());
-
-for (int i =0; i<repeatCount; i++)
+while (true)
 {
-    Console.WriteLine(message);
+    Console.WriteLine("Напишите слово выход на английском языке");
+    userInputWord = Console.ReadLine();
+
+    if (userInputWord == "exit")
+    {
+        Console.WriteLine("Вы угадали слово.");
+        break;
+    }
+    else
+    {
+        Console.WriteLine("Попробуйте еще раз.");
+    }
 }
