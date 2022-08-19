@@ -2,7 +2,6 @@
 string userInputWord = "";
 
 while (userInputWord != trueWord)
-
 { 
     Console.WriteLine("Напишите слово выход на английском языке");
     userInputWord = Console.ReadLine();
@@ -15,4 +14,3 @@ while (userInputWord != trueWord)
         Console.WriteLine("Попробуйте еще раз.");
     }
 }
-
