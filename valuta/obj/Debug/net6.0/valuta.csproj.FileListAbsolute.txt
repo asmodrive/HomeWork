@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Ycheba\HomeWork\valuta\bin\Debug\net6.0\valuta.exe
+C:\Users\user\source\repos\Ycheba\HomeWork\valuta\bin\Debug\net6.0\valuta.deps.json
+C:\Users\user\source\repos\Ycheba\HomeWork\valuta\bin\Debug\net6.0\valuta.runtimeconfig.json
+C:\Users\user\source\repos\Ycheba\HomeWork\valuta\bin\Debug\net6.0\valuta.dll
+C:\Users\user\source\repos\Ycheba\HomeWork\valuta\bin\Debug\net6.0\valuta.pdb
+C:\Users\user\source\repos\Ycheba\HomeWork\valuta\obj\Debug\net6.0\valuta.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Ycheba\HomeWork\valuta\obj\Debug\net6.0\valuta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Ycheba\HomeWork\valuta\obj\Debug\net6.0\valuta.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Ycheba\HomeWork\valuta\obj\Debug\net6.0\valuta.AssemblyInfo.cs
+C:\Users\user\source\repos\Ycheba\HomeWork\valuta\obj\Debug\net6.0\valuta.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Ycheba\HomeWork\valuta\obj\Debug\net6.0\valuta.dll
+C:\Users\user\source\repos\Ycheba\HomeWork\valuta\obj\Debug\net6.0\refint\valuta.dll
+C:\Users\user\source\repos\Ycheba\HomeWork\valuta\obj\Debug\net6.0\valuta.pdb
+C:\Users\user\source\repos\Ycheba\HomeWork\valuta\obj\Debug\net6.0\valuta.genruntimeconfig.cache
+C:\Users\user\source\repos\Ycheba\HomeWork\valuta\obj\Debug\net6.0\ref\valuta.dll
