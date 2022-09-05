@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Ycheba\HomeWork\comandi\bin\Debug\net6.0\comandi.exe
+C:\Users\user\source\repos\Ycheba\HomeWork\comandi\bin\Debug\net6.0\comandi.deps.json
+C:\Users\user\source\repos\Ycheba\HomeWork\comandi\bin\Debug\net6.0\comandi.runtimeconfig.json
+C:\Users\user\source\repos\Ycheba\HomeWork\comandi\bin\Debug\net6.0\comandi.dll
+C:\Users\user\source\repos\Ycheba\HomeWork\comandi\bin\Debug\net6.0\comandi.pdb
+C:\Users\user\source\repos\Ycheba\HomeWork\comandi\obj\Debug\net6.0\comandi.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Ycheba\HomeWork\comandi\obj\Debug\net6.0\comandi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Ycheba\HomeWork\comandi\obj\Debug\net6.0\comandi.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Ycheba\HomeWork\comandi\obj\Debug\net6.0\comandi.AssemblyInfo.cs
+C:\Users\user\source\repos\Ycheba\HomeWork\comandi\obj\Debug\net6.0\comandi.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Ycheba\HomeWork\comandi\obj\Debug\net6.0\comandi.dll
+C:\Users\user\source\repos\Ycheba\HomeWork\comandi\obj\Debug\net6.0\refint\comandi.dll
+C:\Users\user\source\repos\Ycheba\HomeWork\comandi\obj\Debug\net6.0\comandi.pdb
+C:\Users\user\source\repos\Ycheba\HomeWork\comandi\obj\Debug\net6.0\comandi.genruntimeconfig.cache
+C:\Users\user\source\repos\Ycheba\HomeWork\comandi\obj\Debug\net6.0\ref\comandi.dll

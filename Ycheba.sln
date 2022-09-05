@@ -21,9 +21,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "exit", "exit\exit.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "sequence", "sequence\sequence.csproj", "{7CF45334-E44C-4392-B902-4058606B6275}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "random", "random\random.csproj", "{AA57980B-324B-4F5D-8A20-5E7F12F7B3AA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "random", "random\random.csproj", "{AA57980B-324B-4F5D-8A20-5E7F12F7B3AA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "valuta", "valuta\valuta.csproj", "{917BA70A-FE5E-4C5A-9CE3-3ED5DD02A69B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "valuta", "valuta\valuta.csproj", "{917BA70A-FE5E-4C5A-9CE3-3ED5DD02A69B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "comandi", "comandi\comandi.csproj", "{6A233AF8-9DF8-4D8E-8934-30473F41CB67}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{917BA70A-FE5E-4C5A-9CE3-3ED5DD02A69B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{917BA70A-FE5E-4C5A-9CE3-3ED5DD02A69B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{917BA70A-FE5E-4C5A-9CE3-3ED5DD02A69B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A233AF8-9DF8-4D8E-8934-30473F41CB67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A233AF8-9DF8-4D8E-8934-30473F41CB67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A233AF8-9DF8-4D8E-8934-30473F41CB67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A233AF8-9DF8-4D8E-8934-30473F41CB67}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
