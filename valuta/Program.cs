@@ -49,6 +49,7 @@ while (userInput != exitCommand)
         case "2":
             Console.WriteLine("Обмен долларов на рубли, сколько вы хотите обменять?");
             currencyCount = Convert.ToSingle(Console.ReadLine());
+            
             if (usdBalance >= currencyCount)
             {
                 usdBalance -= currencyCount;
@@ -58,6 +59,7 @@ while (userInput != exitCommand)
         case "3":
             Console.WriteLine("Обмен долларов на евро, сколько вы хотите обменять?");
             currencyCount = Convert.ToSingle(Console.ReadLine());
+            
             if (usdBalance >= currencyCount)
             {
                 usdBalance -= currencyCount;
@@ -67,6 +69,7 @@ while (userInput != exitCommand)
         case "4":
             Console.WriteLine("Обмен евро на доллары, сколько вы хотите обменять?");
             currencyCount = Convert.ToSingle(Console.ReadLine());
+            
             if (eurBalance >= currencyCount)
             {
                 eurBalance -= currencyCount;
@@ -76,6 +79,7 @@ while (userInput != exitCommand)
         case "5":
             Console.WriteLine("Обмен рубли на евро, сколько вы хотите обменять?");
             currencyCount = Convert.ToSingle(Console.ReadLine());
+           
             if (rubBalance >= currencyCount)
             {
                 rubBalance -= currencyCount;
@@ -85,6 +89,7 @@ while (userInput != exitCommand)
         case "6":
             Console.WriteLine("Обмен евро на рубли, сколько вы хотите обменять?");
             currencyCount = Convert.ToSingle(Console.ReadLine());
+           
             if (eurBalance >= currencyCount)
             {
                 eurBalance -= currencyCount;
