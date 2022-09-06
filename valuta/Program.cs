@@ -35,6 +35,7 @@ while (userInput != exitCommand)
         case "1":
             Console.WriteLine("Обмен рублей на доллары, сколько вы хотите обменять?");
             currencyCount = Convert.ToSingle(Console.ReadLine());
+
             if (rubBalance >= currencyCount)
             {
                 rubBalance -= currencyCount;
