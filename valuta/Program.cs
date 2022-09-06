@@ -10,6 +10,7 @@ float eurToRUB = 0.018f;
 string userInput = "";
 float currencyCount;
 string exitCommand = "0";
+
     Console.WriteLine("Доброе пожаловать в обменник,введите, что вы хотите сделать.");
     Console.WriteLine("Введите баланс в рублях.");
     rubBalance = Convert.ToSingle(Console.ReadLine());
