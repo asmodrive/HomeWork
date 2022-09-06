@@ -1,15 +1,22 @@
-﻿float RUB, USD, EUR;
-float rubToUSD = 60, rubToEUR = 55, usdToRUB = 0.016f, usdToEUR = 0.9f, eurToUSD = 1.09f, eurToRUB = 0.018f;
+﻿float rubBalance;
+float usdBalance;
+float eurBalance;
+float rubToUSD = 60;
+float rubToEUR = 55;
+float usdToRUB = 0.016f;
+float usdToEUR = 0.9f;
+float eurToUSD = 1.09f;
+float eurToRUB = 0.018f;
 string userInput = "";
 float currencyCount;
 string exitCommand = "0";
     Console.WriteLine("Доброе пожаловать в обменник,введите, что вы хотите сделать.");
     Console.WriteLine("Введите баланс в рублях.");
-    RUB = Convert.ToSingle(Console.ReadLine());
+    rubBalance = Convert.ToSingle(Console.ReadLine());
     Console.WriteLine("Введите баланс в долларах.");
-    USD = Convert.ToSingle(Console.ReadLine());
+    usdBalance = Convert.ToSingle(Console.ReadLine());
     Console.WriteLine("Введите баланс в евро");
-    EUR = Convert.ToSingle(Console.ReadLine());
+    eurBalance = Convert.ToSingle(Console.ReadLine());
 
 while (userInput != exitCommand)
     {
@@ -27,67 +34,62 @@ while (userInput != exitCommand)
         case "1":
             Console.WriteLine("Обмен рублей на доллары, сколько вы хотите обменять?");
             currencyCount = Convert.ToSingle(Console.ReadLine());
-            if (RUB >= currencyCount)
+            if (rubBalance >= currencyCount)
             {
-                RUB -= currencyCount;
-                USD += currencyCount / rubToUSD;
+                rubBalance -= currencyCount;
+                usdBalance += currencyCount * rubToUSD;
             }
             else
             {
                 Console.WriteLine("Недопустимое количество");
             }
             break;
-
         case "2":
             Console.WriteLine("Обмен долларов на рубли, сколько вы хотите обменять?");
             currencyCount = Convert.ToSingle(Console.ReadLine());
-            if (USD >= currencyCount)
+            if (usdBalance >= currencyCount)
             {
-                USD -= currencyCount;
-                RUB = currencyCount * usdToRUB;
+                usdBalance -= currencyCount;
+                rubBalance = currencyCount * usdToRUB;
             }
             break;
-
         case "3":
             Console.WriteLine("Обмен долларов на евро, сколько вы хотите обменять?");
             currencyCount = Convert.ToSingle(Console.ReadLine());
-            if (USD >= currencyCount)
+            if (usdBalance >= currencyCount)
             {
-                USD -= currencyCount;
-                EUR = currencyCount * eurToUSD;
+                usdBalance -= currencyCount;
+                eurBalance = currencyCount * eurToUSD;
 
             }
             break;
-
         case "4":
             Console.WriteLine("Обмен евро на доллары, сколько вы хотите обменять?");
             currencyCount = Convert.ToSingle(Console.ReadLine());
-            if (EUR >= currencyCount)
+            if (eurBalance >= currencyCount)
             {
-                EUR -= currencyCount;
-                USD += currencyCount / eurToUSD;
+                eurBalance -= currencyCount;
+                usdBalance += currencyCount * eurToUSD;
             }
             break;
-
         case "5":
             Console.WriteLine("Обмен рубли на евро, сколько вы хотите обменять?");
             currencyCount = Convert.ToSingle(Console.ReadLine());
-            if (RUB >= currencyCount)
+            if (rubBalance >= currencyCount)
             {
-                RUB -= currencyCount;
-                EUR += currencyCount * eurToRUB;
+                rubBalance -= currencyCount;
+                eurBalance += currencyCount * eurToRUB;
             }
             break;
-
         case "6":
             Console.WriteLine("Обмен евро на рубли, сколько вы хотите обменять?");
             currencyCount = Convert.ToSingle(Console.ReadLine());
-            if (EUR >= currencyCount)
+            if (eurBalance >= currencyCount)
             {
-                EUR -= currencyCount;
-                RUB = currencyCount * rubToEUR;
+                eurBalance -= currencyCount;
+                rubBalance = currencyCount * rubToEUR;
             }
             break;
     }
-    Console.WriteLine($"Ваш баланс:{RUB} рублей, {USD} долларов, {EUR} евро.");
+    Console.WriteLine($"Ваш баланс:{rubBalance} рублей, {usdBalance} долларов, {eurBalance} евро.");
 }
