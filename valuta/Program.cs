@@ -60,7 +60,6 @@ while (userInput != exitCommand)
             {
                 usdBalance -= currencyCount;
                 eurBalance = currencyCount * eurToUSD;
-
             }
             break;
         case "4":
